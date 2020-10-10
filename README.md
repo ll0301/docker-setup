@@ -17,7 +17,7 @@
 -> VM은 하나의 서버를 여러 서버로 전환하는 물리적 하드웨어의 추상화다.   
 하이퍼바이저를 통해 단일 시스템에서 여러 VM을 실행할 수 있다.   
 각 VM에는 운영체제, 애플리케이션, 필요한 이진 파일 및 라이브러리의 전체 복사본이 포함되며, 여기에는 수십 GB가 사용된다. VM의 부팅속도도 느릴 수 있다.   
-[VM / App / Guest Operating System] [VM / App / Guest Operating System] ...   
+[VM / App / Guest Operating System] [VM / App / Guest Operating System]   
 ㄴ Hypervisor   
 ㄴ Infrastructure   
 
